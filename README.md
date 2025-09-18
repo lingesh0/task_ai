@@ -14,8 +14,7 @@
 - Notifications / Alerts for upcoming tasks  
 - Multi-language support  
 - Settings (theme, languages, notifications)  
-- (Optional) Admin Panel for user management and oversight  
-- Reports / Analytics dashboard  
+ - Reports / Analytics dashboard  
 
 ---
 
